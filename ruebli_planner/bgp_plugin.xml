@@ -1,0 +1,7 @@
+<library path="lib/libruebli_planner">
+  <class name="ruebli_planner/RuebliPlanner" type="ruebli_planner::RuebliPlanner" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>
+      A simple planner that seeks to place a legal ruebli in-front of the robot
+    </description>
+  </class>
+</library>
